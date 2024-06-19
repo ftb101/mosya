@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+header {
+  width: 375px;
+  height: 90px;
+  margin: 0 auto;
+}
+header h1 {
+  height: 90px;
+  line-height: 90px;
+  width: 160px;
+}
+header h1a {
+  height: auto;
+}
+header h1a img {
+  width: 100%;
+  align-items: center;
+}/*# sourceMappingURL=style.css.map */
